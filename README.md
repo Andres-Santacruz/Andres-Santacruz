@@ -16,7 +16,7 @@
 - 👨🏽‍💻 A passionate Self-taught FullStack developer
 - ⚽ Play soccer and chess in free time
 - 💻 Personal website [link](https://andres-santacruz.vercel.app)
-- 📄 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 📄 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://andres-santacruz.vercel.app/cv-andres-santacruz.pdf)
 
 <br><br>
 
